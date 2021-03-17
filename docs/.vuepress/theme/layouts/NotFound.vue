@@ -43,7 +43,7 @@
   }
 
   .not-found img {
-  width: 40%;
-  height: auto;
+  width: 60%;
+  object-fit:cover;
   }
 </style>
